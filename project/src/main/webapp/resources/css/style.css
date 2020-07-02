@@ -1,0 +1,274 @@
+body{
+    background: azure;
+
+}
+
+.login{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+
+}
+
+.main{
+
+}
+.logo{
+
+}
+
+.button{
+    width:160px ;
+    height: 30px;
+    background: DarkOrange;
+    position: relative;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    left: 13%;
+    margin-top: 10px;
+
+}
+
+.input{
+    border-radius: 35px;
+    height: 30px;
+    width: 300px;
+    margin: 0px 0px 10px 0px;
+    padding-left: 15px;
+    font-size: 18px;
+    box-shadow: 2px 2px 5px;
+
+}
+
+.head{
+    position: relative;
+    margin-top: 100px;
+}
+
+.reg{
+    position: relative;
+
+}
+.car{
+    padding-bottom: 12px;
+    background-color: #e7e7e7;
+}
+
+h5{
+    width: 100%;
+    max-width: 330px;
+    padding: 10px;
+    margin: auto;
+}
+
+h2{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    left: 45px;
+
+}
+
+
+header{
+    width: 100%;
+    height: 80px;
+    background-image: url(orange.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.title{
+    font-size: 60px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: red;
+
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    top: -7px;
+    right: 70px;
+}
+
+.img{
+    position:absolute;
+    height: 80px;
+    width: 80px;
+}
+
+
+input{
+    margin-top: 10px;
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+
+    padding-left: 15px;
+    font-size: 18px;
+    box-shadow: 2px 2px 5px;
+}
+
+.chat{
+    background-color:LightSalmon;
+    width: 100%;
+    max-width: 550px;
+    padding: 15px;
+    margin: auto;
+
+}
+
+.message{
+    background-color: OrangeRed;
+    height: auto;
+    width: 250px;
+    padding-left: 15px;
+    border-radius: 35px;
+}
+.table{
+    width: 100%;
+
+}
+
+.nick{
+    margin: 0;
+    font-size: 12px;
+}
+
+.text{
+    margin-left: 10px;
+    margin-top: 1px
+}
+.messages{
+    background-color: OrangeRed;
+    height: auto;
+    width: 250px;
+    padding-left: 15px;
+    border-radius: 35px;
+}
+.texts{
+    margin-right: 20px;
+    margin-top: 1px;
+    text-align:right;
+}
+.nicks {
+    margin: 0;
+    margin-right: 20px;
+    font-size: 12px;
+    text-align: right;
+}
+
+.avatar{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin-top: 15px;
+}
+
+.titles {
+    color: grey;
+    font-size: 18px;
+}
+
+.buttons {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: darkorange;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.a {
+    text-decoration: none;
+    font-size: 22px;
+    color: orange;
+}
+
+.button:hover, a:hover {
+    opacity: 0.7;
+}
+.post{
+    height: 75px;
+    width: 400px;
+}
+.posts{
+    height: 100px;
+    border: 5px groove #FF8C00;
+    margin: auto;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    width: 60%;
+
+}
+.navigation{
+    text-align: center;
+    width: 100%;
+    max-width: 1000px;
+    padding: 15px;
+    margin: auto;
+}
+.navigations li {
+    display: inline;
+}
+
+.navigations a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #FF8C00;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lavender;
+    border-bottom: 5px solid #FF8C00;
+    border-radius: 35px;
+}
+
+
+.avatars{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+}
+
+/*.inputfile{*/
+    /*width: 0.1px;*/
+    /*height: 0.1px;*/
+    /*opacity: 0;*/
+    /*overflow: hidden;*/
+    /*position: absolute;*/
+    /*z-index: -1;*/
+/*}*/
+/*.inputfile +label{*/
+    /*font-family: "Open Sans",sans-serif;*/
+    /*margin: 100px auto;*/
+    /*font-size: 1.25em;*/
+    /*font-weight: 700;*/
+    /*color: white;*/
+    /*background-color: rgb(231,76,60);*/
+    /*display: inline-block;*/
+    /*cursor: pointer;*/
+    /*padding: 20px;*/
+    /*border-radius: 5px;*/
+/*}*/
+
+/*.inputfile:focus+label,*/
+/*.inputfile+label:hover{*/
+    /*background-color: rgb(192,57,43);*/
+/*}*/
