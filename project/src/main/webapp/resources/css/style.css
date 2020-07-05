@@ -123,11 +123,12 @@ input{
 }
 
 .message{
-    background-color: OrangeRed;
+    border: 5px groove #FF8C00;
     height: auto;
     width: 250px;
     padding-left: 15px;
     border-radius: 35px;
+    margin-bottom: 5px;
 }
 .table{
     width: 100%;
@@ -144,11 +145,12 @@ input{
     margin-top: 1px
 }
 .messages{
-    background-color: OrangeRed;
+    border: 5px groove #FF8C00;
     height: auto;
     width: 250px;
     padding-left: 15px;
     border-radius: 35px;
+    margin-bottom: 5px;
 }
 .texts{
     margin-right: 20px;
